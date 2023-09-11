@@ -3,7 +3,7 @@
 
 
 
-![Age at First Olumpics] 
+![Age at First Olumpics](Age at First Olympics.png)
 
 
 
