@@ -3,7 +3,7 @@
 
 
 
-![Age at First Olumpics]([Age at First Olympics.png](https://github.com/CoachWendy/Olympic-Results/blob/main/Age%20at%20First%20Olympics.png)
+![Age at First Olumpics]([Age at First Olympics.png](https://github.com/CoachWendy/Olympic-Results/blob/main/Age%20at%20First%20Olympics.png).)
 
 
 
