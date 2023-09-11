@@ -1,16 +1,14 @@
-# Olympic-Results
----
-output:
-  pdf_document: default
-  html_document: default
----
-rm(--- title: "Olympic Data" author: "Wendy Taylor" date: "`r Sys.Date()`" output: html_document ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Olympic Data
+
+
+
+
+
+
+
+
+
 
 Installing all the necessary packages
 
