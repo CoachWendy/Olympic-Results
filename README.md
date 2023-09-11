@@ -6,7 +6,7 @@
 ![Age at First Olympics]([Age at First Olympics.png](https://github.com/CoachWendy/Olympic-Results/blob/main/Age%20at%20First%20Olympics.png).)
 
 
-
+This project is to explore the average age of gymnasts when they first entered the Olympics. The dataset was downloaded from Kaggle: Olympic Summer & Winter Games, 1896-2022 | Kaggle
 
 
 
