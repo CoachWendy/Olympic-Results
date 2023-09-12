@@ -1,6 +1,6 @@
 ## This analysis is a Capstone project from the Google Data Analytics Professional Certificate on Coursera
 
-![Age at First Olympics] (
+![Age at First Olympics] (https://public.tableau.com/views/AgeatFistOlympics/AgeatFirstOlympics?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Background:
 As a gymnastics coach I have always worried about the impact that the sport can have on young women. I have been particularly interested in the amount of time that these young people spend in the gym and what it can do to their social and emotional health. 
