@@ -1,5 +1,7 @@
 ## This analysis is a Capstone project from the Google Data Analytics Professional Certificate on Coursera
 
+![Age at First Olympics] (
+
 ### Background:
 As a gymnastics coach I have always worried about the impact that the sport can have on young women. I have been particularly interested in the amount of time that these young people spend in the gym and what it can do to their social and emotional health. 
 
